@@ -62,7 +62,7 @@ Possible answers:
 
 Task #2
 -------
-The objective here is to demonstrate the ability to create front-end code using same tech stack that we use in our products. This is in addition to design/CSS3/HTML5 skills. This task is code-focused, 
+The objective here is to demonstrate the ability to create front-end code and communicate with a backend using same tech stack that we use in our products. This is in addition to you showing your design/CSS3/HTML5 skills, it still needs to be pleasing.
 
 There is a `tpc-frontend-task-service` module which is a standard ExpressJS app. When started, each request to 
 `http://localhost:3000/questions/next`  serves random question as JSON. 
