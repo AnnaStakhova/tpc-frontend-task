@@ -28,7 +28,7 @@ Requirements:
  - is mobile and ultra-wide friendly
  - has some sort of site-wide navigation component
  - has a footer with information we're required to put it in (please check our websites)
-2. Put your work in `tpc-frontend-task-static` module.
+2. Put your work in `tpc-frontend-task-static` module only, it's already in the repository.
 3. Use NPM to manage 3rd party dependencies and to automate the process of creating output artifacts, if applicable.
 4. Create a `README.md` and describe how to run it
 5. Create a pull request with your changes to this repository
@@ -74,7 +74,7 @@ There is a `tpc-frontend-task-service` module which is a standard ExpressJS app.
  - after 20 questions it shows a thank you page and logs `[question number, answer number]` pairs to the console
  - allows to visually identify it with The Psychometrics Centre brand, creative take on the subject is encouraged
  - is mobile and ultra-wide friendly
-2. Put your work in `tpc-frontend-task-ng` module that you need to create.
+2. Put your work in `tpc-frontend-task-ng` module only (you need to create it).
 3. You can use either NPM or NPM with `@angular/cli` to manage the process of generating output artifacts.
 4. Create a `README.md` and describe how to run it
 5. Create a pull request with your changes to this repository
