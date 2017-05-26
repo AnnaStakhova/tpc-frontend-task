@@ -28,6 +28,7 @@ Requirements:
  - is mobile and ultra-wide friendly
  - has some sort of site-wide navigation component
  - has a footer with information we're required to put it in (please check our websites)
+ - show us some typography too (can be separate subpage, for text lorem ipsum is ok)
 2. Put your work in `tpc-frontend-task-static` module only, it's already in the repository.
 3. Use NPM to manage 3rd party dependencies and to automate the process of creating output artifacts, if applicable.
 4. Create a `README.md` and describe how to run it
