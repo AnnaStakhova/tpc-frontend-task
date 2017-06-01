@@ -21,7 +21,6 @@ gulp.task('scripts', function() {
 gulp.task('styles', function() {
     gulp.src([
         'bower_components/bootstrap-css/css/bootstrap.css',
-        'bower_components/bootstrap-css/css/bootstrap-theme.css',
         'assets/css/*.css',
     ])
     .pipe(concat('tpc.css'))
